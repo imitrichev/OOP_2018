@@ -8,6 +8,6 @@ gint64 gimp_g_value_get_memsize (GValue *value)
 
   if (array)
     memsize += (sizeof (GimpArray) +
-                array->static_data ? 0 : array->length);
+                array->static_data ? 0 : array->length);lolm
   ....
 }
