@@ -13,5 +13,5 @@ int main()
 	cout<<"Enter choice"<<endl;
 	cin>>choice;
 	cout<<"Super number "<<supercalculation<<endl;
-	return 0;
+	return 1;
 }
