@@ -12,6 +12,6 @@ int main()
 	bool choice;
 	cout<<"Enter choice"<<endl;
 	cin>>choice;
-	cout<<"Super number "<<supercalculation<<endl;
+	cout<<"Super landar "<<supercalculation<<endl;
 	return 0;
 }
